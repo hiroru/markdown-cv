@@ -9,10 +9,8 @@ Computer engineer with more than 16 years of experience in IT industry. On the t
 
 However, I also have experience as a team and technical leader on the management side. I have always enjoyed learning new technologies and methodologies, working hard to achieve challenges, and being proactive not only in my daily work but also on building a close team with the people I work with. I think that being a technology enthusiast, learning everyday and having fun in the process is the only way to be successful in the IT world.
 
-<a href="firstnamelastname@gmail.com">firstnamelastname@gmail.com</a>
-
 <div id="webaddress">
-  <a href="https://hiroru.github.io"><i class="fas fa-home"></i> hiroru.github.io</a> -
+  <a href="https://sergibarroso.me"><i class="fas fa-home"></i> sergibarroso.me</a> -
   <a href="https://github.com/hiroru"><i class="fab fa-github"></i> hiroru</a> -
   <a href="https://twitter.com/sergibarroso"><i class="fab fa-twitter"></i> @sergibarroso</a>
 </div>
