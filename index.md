@@ -57,75 +57,75 @@ Proactively identifying and validating areas of potential improvement where appr
 
 Member of the R&D Team completely focused on the design and implementation of a full stack solution for new products, creating a new cloud infrastructure using only state-of-the-art technologies. These were some of my responsibilities:
 
-- Providing hybrid cloud infrastructure able to scale to multi datacenter and service providers using Openstack, CoreOS, Kubernetes and Docker that have increased 500% the performance and slashed hardware cost 30% while ensuring the continuation and enhancements of services.
+Providing hybrid cloud infrastructure able to scale to multi datacenter and service providers using Openstack, CoreOS, Kubernetes and Docker that have increased 500% the performance and slashed hardware cost 30% while ensuring the continuation and enhancements of services.
 
-- Created the Ansible automation to bootstrap an entire CoreOS and Kubernetes Cloud infrastructure in a few minutes.
+Created the Ansible automation to bootstrap an entire CoreOS and Kubernetes Cloud infrastructure in a few minutes.
 
-- Provisioned high-performance, cost-effective, a completely new distributed storage solution base on Ceph over brtfs/xfs filesystem.
+Provisioned high-performance, cost-effective, a completely new distributed storage solution base on Ceph over brtfs/xfs filesystem.
 
-- Designed Docker containers based micro-service solution to deploy new services 300% times faster for testing, pre-production and production environments.
+Designed Docker containers based micro-service solution to deploy new services 300% times faster for testing, pre-production and production environments.
 
-- Absolutely dedicated to automation Bash script for deploying and managing Kubernetes clusters on Google Cloud Platform for both testing and pre-production environments to let junior system administrators able to manage the whole deployment with an easy and friendly user interface.
+Absolutely dedicated to automation Bash script for deploying and managing Kubernetes clusters on Google Cloud Platform for both testing and pre-production environments to let junior system administrators able to manage the whole deployment with an easy and friendly user interface.
 
-- Created the whole set of script able to deploy, grow and shrink CoreOS clusters over OpenStack platform.
+Created the whole set of script able to deploy, grow and shrink CoreOS clusters over OpenStack platform.
 
-- Actively sharing knowledge writing technical blog posts and leading private community of practices.
+Actively sharing knowledge writing technical blog posts and leading private community of practices.
 
-- Developed central console web application and API REST using Go language for managing the security layer from Fortinet Firewalls through their API specification.
+Developed central console web application and API REST using Go language for managing the security layer from Fortinet Firewalls through their API specification.
 
 `2014-2015`
 **Systems Engineer Team Lead**, *Systems Team, CDmon*, Barcelona, Spain.
 
 I was responsible of all systems architecture and leader of 14 system engineers. Mainly focused on team members’ development, business strategy, but after one year as team lead I decided to go back to technical career to be more in touch with technology. Some of my responsibilities at the time were:
 
-- Recruited three top performance technical engineers which still working in the company.
+Recruited three top performance technical engineers which still working in the company.
 
-- Slashed payroll cost by 10% by establishing and negotiating salary increases policy.
+Slashed payroll cost by 10% by establishing and negotiating salary increases policy.
 
-- Performed one-on-one support coaching for all team members to .
+Performed one-on-one support coaching for all team members to .
 
-- Designed training plans and aligned the 100% from investment cost with business strategic goals.
+Designed training plans and aligned the 100% from investment cost with business strategic goals.
 
-- Reviewed all our technical processes to manage company assets.
+Reviewed all our technical processes to manage company assets.
 
-- Managed KPI and reported to CEO by weekly personal interview.
+Managed KPI and reported to CEO by weekly personal interview.
 
 `2009-2014`
 **Systems Architect**, *Systems Team, Tryo Aerospace*, Barcelona, Spain.
 
 I became systems architect after several years of performing Linux and Windows Server administration. Apart from this I became IT department manager where I learned the essentials of business processes, KPI, reporting and project management. During this period the most relevant projects were:
 
-- Developed test campaign under MacOSX and real time Linux Kernel using C for MeteoSat Third Generation Data Collection System.
+Developed test campaign under MacOSX and real time Linux Kernel using C for MeteoSat Third Generation Data Collection System.
 
-- Reduced the IT department expenses on 20% by increasing lifetime of servers Hardware and choosing right partners.
+Reduced the IT department expenses on 20% by increasing lifetime of servers Hardware and choosing right partners.
 
-- Designed and developed the new intranet with HTML5, Javascript, PHP, MySQL, SQL Server and LDAP technologies.
+Designed and developed the new intranet with HTML5, Javascript, PHP, MySQL, SQL Server and LDAP technologies.
 
-- Reduced by 80% the security risks by performing security audits and applying ITIL and ISO 27001 best practices.
+Reduced by 80% the security risks by performing security audits and applying ITIL and ISO 27001 best practices.
 
 `2005-2009`
 **Systems Engineer**, *Systems Team, Tryo Aerospace*, Barcelona, Spain.
 
 During this period I designed and developed the whole systems architecture that is still being used today. The most important projects were:
 
-- Implemented Linux front end servers: apache proxies, squid transparent cache, postfix proxy, antispam service with spamassassin, greylist, dnswl and dnsbl and ftp over ssl server using vsftp.
+Implemented Linux front end servers: apache proxies, squid transparent cache, postfix proxy, antispam service with spamassassin, greylist, dnswl and dnsbl and ftp over ssl server using vsftp.
 
-- Installed Hardware and Operating systems and configuration through for 40 physical servers.
+Installed Hardware and Operating systems and configuration through for 40 physical servers.
 
-- Deployed of virtualization platform using Xen Source and server cluster and tools for managing shared iscsi storage and live migration for the whole servers infrastructure.
+Deployed of virtualization platform using Xen Source and server cluster and tools for managing shared iscsi storage and live migration for the whole servers infrastructure.
 
-- Provided disaster recovery solutions based on Symantec, Microsoft VSS and bash scripts solution decreasing recovery time by 80%.
+Provided disaster recovery solutions based on Symantec, Microsoft VSS and bash scripts solution decreasing recovery time by 80%.
 
 `2004-2005`
 **System Administrator**, Systems Team, Alten Technologies*, Barcelona, Spain.
 
 I was a member of the team responsible of Linux servers, both in-house and on costumers’ on-premises data centers. As a junior system administrator I worked very hard to get my MySQL and Apache knowledge improved as much as possible, which made possible to succeed in these projects:
 
-- Managed 10 production Debian servers for a intranet of Banc Sabadell.
+Managed 10 production Debian servers for a intranet of Banc Sabadell.
 
-- I took part in the team responsible of customers’ servers migration to Linux platform.
+I took part in the team responsible of customers’ servers migration to Linux platform.
 
-- Migrated 25 critical physical servers from Windows to Debian Linux as only personal responsible for one of our biggest customers.
+Migrated 25 critical physical servers from Windows to Debian Linux as only personal responsible for one of our biggest customers.
 
 ## Certifications
 
